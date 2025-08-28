@@ -27,7 +27,7 @@ Console.WriteLine("compilo el terreno");
 
 public class Aseadores
 {
-    public string Nombre = "";
+    public string Nombre = "luis";
     public string Cedula = "";
     public int Edad = 0;
     public string Horario = "";
